@@ -15,6 +15,5 @@
 
 # Thanks for viewing my work!
 
-<p align="center">
 <img src="https://media.tenor.com/X4IBLofyYxEAAAAC/rebecca-edgerunners.gif" />
 </p>
