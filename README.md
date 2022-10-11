@@ -16,5 +16,5 @@
 <h1 align="center">Good luck!</h1>
 
 <p align="center">
-<img src="https://tenor.com/view/rebecca-edgerunners-gif-26727775/background.gif" />
+<img src="https://media.tenor.com/X4IBLofyYxEAAAAC/rebecca-edgerunners.gif" />
 </p>
