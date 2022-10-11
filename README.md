@@ -13,7 +13,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h1 align="center">Good luck!</h1>
+# Thanks for viewing my work!
 
 <p align="center">
 <img src="https://media.tenor.com/X4IBLofyYxEAAAAC/rebecca-edgerunners.gif" />
