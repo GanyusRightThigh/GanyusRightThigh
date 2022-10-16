@@ -8,7 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanyusRightThigh&theme=tokyonight&layout=compact" />
 
-# Languages I'm interested to ⌨
+# Languages and Tools I'm interested to ⌨
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
