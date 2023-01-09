@@ -6,8 +6,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=GanyusRightThigh&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanyusRightThigh&theme=tokyonight&layout=compact" />
-
 # Languages and Tools I'm interested to ⌨
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
